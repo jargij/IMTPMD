@@ -1,0 +1,13 @@
+!SESSION 2013-02-14 10:44:22.609 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=nl_NL
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -keyring /Users/jaceksmit/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -keyring /Users/jaceksmit/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-02-14 10:45:12.918
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-02-14 10:45:13.567
+!MESSAGE DDMS files not found: /Volumes/BOOTCAMP/Android SDK/eclipse/Eclipse.app/Contents/MacOS/platform-tools/adb /Volumes/BOOTCAMP/Android SDK/eclipse/Eclipse.app/Contents/MacOS/tools/hprof-conv /Volumes/BOOTCAMP/Android SDK/eclipse/Eclipse.app/Contents/MacOS/tools/traceview 
