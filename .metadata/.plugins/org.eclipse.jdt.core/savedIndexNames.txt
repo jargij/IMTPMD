@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Volumes/BOOTCAMP/Android SDK/workspace/.metadata/.plugins/org.eclipse.jdt.core
+550457267.index
+2294423765.index
+3086155774.index
